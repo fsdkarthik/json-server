@@ -4,7 +4,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
   <html>
   <body>
-    <h2>List of scan results</h2>
+    <h1 style="color:green;">scan results</h1>
     <table border="1">
       <tr bgcolor="#9acd32">
         <th>Name</th>
