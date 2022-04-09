@@ -4,7 +4,7 @@
   <html>
   <body>
      <xsl:element name="h1">
-<xsl:attribute name="style">color:green;</xsl:attribute>
+<xsl:attribute name="style">color:blue;</xsl:attribute>
 Scan results 1
 </xsl:element>
 
