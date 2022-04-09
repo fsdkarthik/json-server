@@ -1,0 +1,27 @@
+[
+{
+"name" : "FetalBrain",
+"value" : "Normal",
+"label" : "Brain"
+},
+{
+"name" : "FetalHeart",
+"value" : "Normal",
+"label" : "Heart"
+},
+{
+"name" : "FetalAbdomen",
+"value" : "Abnormal",
+"label" : "Abdomen"
+},
+{
+"name" : "FetalArms",
+"value" : "Normal",
+"label" : "Arms"
+},
+{
+"name" : "FetalLegs",
+"value" : "Abnormal",
+"label" : "Legs"
+}
+]
